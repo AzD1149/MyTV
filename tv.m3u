@@ -1,0 +1,137 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TV1HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-id="TV2" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-id="TV3" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
+https://mediahomes.github.io/assets/my/ch_tv3.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 tvg-id="TV6" group-title="ENTERTAINMENT" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
+https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-id="NTV7" group-title="EDUCATION" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
+https://mediahomes.github.io/assets/my/ch_ntv7.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 tvg-id="8TV" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
+https://mediahomes.github.io/assets/my/ch_8tv.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 tvg-id="TV9" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
+https://mediahomes.github.io/assets/my/ch_tv9.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 tvg-id=" " group-title="ENTERTAINMENT" tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png",Drama Sangat
+https://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 tvg-id="TVOkey" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-id="NauraHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura HD
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+# https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
+
+#EXTINF:-1 tvg-id="HelloHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello HD
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+
+#EXTINF:-1 tvg-id="TVS" group-title="LIFE_STYLE" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
+
+# #EXTINF:-1 tvg-id=" " group-title="LIFE_STYLE" tvg-logo="http://www.tvikim.my/images/logo-header-02.png",TVIKIM
+# https://origin.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoShop111" group-title="LIFE_STYLE" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw",Astro Go Shop 
+https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
+
+#EXTINF:-1 tvg-id="AstroVaanavilHD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png",Astro Vaanavil HD
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+
+#EXTINF:-1 tvg-id="AstroAwaniHD" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Astro Awani 
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-id="BERNAMA" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",BERNAMA 
+https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
+
+#EXTINF:-1 tvg-id="BERITARTM" group-title="NEWS" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-id="CNAHD" group-title="NEWS" tvg-logo=https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel NewsAsia 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVHD" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",Bloomberg 
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+
+#EXTINF:-1 tvg-id="CGTNEnglish" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="DWEnglish" group-title="NEWS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png",DW
+https://mediahomes.github.io/assets/yt/dwnews.m3u8|Referer=https://www.youtube.com
+
+#EXTINF:-1 tvg-id="Euronews" group-title="NEWS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073656571ojy.png",Euronews
+https://mediahomes.github.io/assets/yt/euronews.m3u8|Referer=https://www.youtube.com
+
+#EXTINF:-1 tvg-id="FRANCE24HD" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1920px-FRANCE_24_logo.svg.png",France24
+https://mediahomes.github.io/assets/yt/france24.m3u8|Referer=https://www.youtube.com
+
+# #EXTINF:-1 tvg-id="RT" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1920px-Russia-today-logo.svg.png",RT
+
+#EXTINF:-1 tvg-id="SkyNewsHD" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png",Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorldHD" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/800px-TRT_World_logo.svg.png",TRT World
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraHD" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Al-Hijrah" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Tv_alhijrah.jpg/revision/latest?cb=20200525145958" group-title="ASTRO",Al-Hijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArirangTVHD" group-title="NEWS" tvg-logo="http://arirang.com/images/index/arirang.png",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-country="KR" tvg-language="Korean" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/1920px-KBS_World_%282009%29.svg.png/revision/latest?cb=20201203110834" group-title="ENTERTAINMENT",KBS World HD
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldHD" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png",NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDocumentary" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV" group-title="SPORTS" tvg-logo="https://img.redbull.com/images/c_fill,g_auto,w_1500,h_1000/q_auto,f_auto/redbullcom/2016/10/01/1331821221085_2/red-bull-tv",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="SPORTS" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
+https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-id="TennisChannel" group-title="SPORTS" tvg-logo="https://tch.spott2.sportradar.com/assets/img/Tennischannel/TC-logo-green.png",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Ceria_HD_november_22nd_2019_version_two.png/revision/latest?cb=20200926125847" group-title="ASTRO",Astro Ceria HD
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Astro_Citra_HD_logo.PNG/revision/latest?cb=20200917121250" group-title="ASTRO",Astro Citra HD
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Astro_Oasis_HD_Logo.png/revision/latest?cb=20190111150354" group-title="ASTRO",Astro Oasis HD
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Astro_Prima_HD_logo.png/revision/latest?cb=20190111150407" group-title="ASTRO",Astro Prima HD
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Astro_Ria_HD.png/revision/latest?cb=20180323125728" group-title="ASTRO",Astro Ria HD
+http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO HD" tvg-country="MY" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO HD
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WarnerTV.us" tvg-name="Warner TV HD" tvg-country="US" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest?cb=20180325001201" group-title="MOVIES",Warner TV HD
+http://203.154.243.89:11205/
+
+#EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="MOVIES",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+
+
+
